@@ -1,0 +1,116 @@
+Abaddon;Role_Carry, Role_Support, Role_Healer, Lane_Safe, Range_Melee, Disable_Slow, DisableProperty_Universal, Damage_Physical, Damage_Magical
+Alchemist;Role_Carry, Role_Support, Role_Initiator, Role_Ganker, Lane_Middle, Lane_Safe, Range_Melee, Disable_Stun, DisableProperty_Reliable, Damage_Physical
+Ancient Apparition;Role_Support, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Slow, Disable_Misc, Damage_Magical, Extra_Global
+Anti-Mage;Role_Carry, Lane_Safe, Range_Melee, Disable_Stun, Disable_Misc, DisableProperty_Universal, Damage_Physical, Extra_Mobile
+Arc Warden;Role_Carry, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Slow, Disable_Misc, DisableProperty_AOE, Damage_Physical, Damage_Magical
+Axe;Role_Initiator, Role_Ganker, Lane_Jungle, Range_Melee, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Physical, Damage_Pure
+Bane;Role_Support, Role_Ganker, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, Damage_Magical, Damage_Pure
+Batrider;Role_Initiator, Role_Ganker, Lane_Middle, Lane_Offlane, Range_Ranged, Disable_Stun, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, Damage_Magical, Extra_Mobile
+Beastmaster;Role_Support, Role_Initiator, Role_Pusher, Role_Ganker, Lane_Offlane, Lane_Safe, Range_Melee, Disable_Stun, Disable_Slow, DisableProperty_Reliable, DisableProperty_Universal, Damage_Physical, Extra_Vision
+Bloodseeker;Role_Carry, Role_Initiator, Role_Ganker, Role_Healer, Lane_Safe, Lane_Jungle, Range_Melee, Disable_Silence, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Physical, Damage_Pure, Extra_Global, Extra_Mobile, Extra_Vision
+Bounty Hunter;Role_Ganker, Lane_Offlane, Lane_Roam, Range_Melee, Disable_Stun, Disable_Slow, Damage_Physical, Damage_Magical, Extra_Mobile, Extra_Invisible, Extra_Vision
+Brewmaster;Role_Carry, Role_Initiator, Lane_Middle, Range_Melee, Disable_Stun, Disable_Misc, Damage_Physical, Damage_Magical
+Bristleback;Role_Carry, Lane_Offlane, Range_Melee, Damage_Physical
+Broodmother;Role_Carry, Role_Pusher, Lane_Offlane, Range_Melee, Disable_Slow, DisableProperty_Universal, Damage_Physical, Extra_Mobile, Extra_Invisible
+Centaur Warrunner;Role_Initiator, Lane_Offlane, Range_Melee, Disable_Stun, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical, Extra_Global, Extra_Mobile
+Chaos Knight;Role_Carry, Role_Initiator, Lane_Safe, Range_Melee, Disable_Stun, Disable_Misc, DisableProperty_Reliable, Damage_Physical
+Chen;Role_Support, Role_Pusher, Role_Healer, Lane_Jungle, Range_Ranged, Disable_Stun, Disable_Ensare, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Extra_Global
+Clinkz;Role_Carry, Role_Pusher, Role_Ganker, Lane_Middle, Lane_Offlane, Lane_Safe, Lane_Roam, Range_Ranged, Damage_Physical, Extra_Mobile, Extra_Invisible
+Clockwerk;Role_Initiator, Role_Ganker, Lane_Offlane, Range_Melee, Disable_Stun, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Magical, Extra_Global, Extra_Mobile, Extra_Vision
+Crystal Maiden;Role_Support, Lane_Safe, Lane_Jungle, Range_Ranged, Disable_Ensare, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical
+Dark Seer;Role_Initiator, Lane_Offlane, Range_Melee, Disable_Misc, DisableProperty_AOE, Damage_Magical, Extra_Mobile
+Dark Willow;Role_Support, Role_Initiator, Role_Ganker, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Ensare, Disable_Misc, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical
+Dazzle;Role_Support, Role_Healer, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Slow, Disable_Misc, Damage_Physical
+Death Prophet;Role_Carry, Role_Pusher, Lane_Middle, Lane_Offlane, Lane_Safe, Range_Ranged, Disable_Slow, Disable_Silence, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Damage_Magical
+Disruptor;Role_Support, Role_Initiator, Lane_Safe, Range_Ranged, Disable_Ensare, Disable_Silence, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Magical
+Doom;Role_Carry, Role_Initiator, Lane_Middle, Lane_Offlane, Lane_Safe, Lane_Jungle, Range_Melee, Disable_Stun, Disable_Silence, DisableProperty_Reliable, DisableProperty_Universal, Damage_Physical, Damage_Magical
+Dragon Knight;Role_Carry, Role_Pusher, Lane_Middle, Lane_Safe, Range_Melee, Range_Ranged, Disable_Stun, Disable_Slow, DisableProperty_Reliable, Damage_Physical
+Drow Ranger;Role_Carry, Role_Pusher, Lane_Safe, Range_Ranged, Disable_Slow, Disable_Silence, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical
+Earth Spirit;Role_Support, Role_Initiator, Role_Ganker, Lane_Offlane, Lane_Safe, Lane_Roam, Range_Melee, Disable_Stun, Disable_Silence, Disable_Misc, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical, Extra_Mobile
+Earthshaker;Role_Initiator, Role_Ganker, Lane_Safe, Range_Melee, Disable_Stun, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Magical
+Elder Titan;Role_Support, Role_Initiator, Lane_Offlane, Lane_Safe, Range_Melee, Disable_Misc, DisableProperty_AOE, Damage_Physical, Damage_Magical
+Ember Spirit;Role_Carry, Role_Ganker, Lane_Middle, Lane_Safe, Range_Melee, Disable_Ensare, Damage_Physical, Extra_Mobile
+Enchantress;Role_Carry, Role_Support, Role_Pusher, Role_Healer, Lane_Jungle, Lane_Roam, Range_Ranged, Disable_Slow, Damage_Pure
+Enigma;Role_Initiator, Role_Pusher, Lane_Jungle, Range_Ranged, Disable_Stun, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Physical, Damage_Pure
+Faceless Void;Role_Carry, Role_Support, Role_Initiator, Role_Ganker, Lane_Offlane, Lane_Safe, Range_Melee, Disable_Stun, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Physical, Extra_Mobile
+Grimstroke;Role_Support, Role_Ganker, Lane_Middle, Lane_Offlane, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Slow, Disable_Silence, Disable_Misc, DisableProperty_AOE, Damage_Magical
+Gyrocopter;Role_Carry, Role_Initiator, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Damage_Magical, Extra_Global
+Huskar;Role_Carry, Role_Initiator, Role_Healer, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Slow, Damage_Physical, Damage_Magical
+Invoker;Role_Carry, Role_Initiator, Role_Ganker, Lane_Middle, Lane_Offlane, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Damage_Magical, Damage_Pure, Extra_Global, Extra_Mobile, Extra_Invisible, Extra_Vision
+Io;Role_Support, Role_Healer, Lane_Safe, Range_Ranged, Disable_Slow, Extra_Global, Extra_Mobile
+Jakiro;Role_Support, Role_Pusher, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical
+Juggernaut;Role_Carry, Role_Pusher, Role_Healer, Lane_Safe, Range_Melee, Damage_Physical
+Keeper of the Light;Role_Support, Role_Healer, Lane_Offlane, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Misc, Damage_Magical, Extra_Global, Extra_Vision
+Kunkka;Role_Carry, Role_Initiator, Lane_Middle, Lane_Safe, Range_Melee, Disable_Stun, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical
+Legion Commander;Role_Carry, Role_Initiator, Lane_Middle, Lane_Safe, Lane_Jungle, Range_Melee, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, Damage_Physical
+Leshrac;Role_Carry, Role_Support, Role_Pusher, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical
+Lich;Role_Support, Lane_Offlane, Lane_Safe, Range_Ranged, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical
+Lifestealer;Role_Carry, Lane_Safe, Lane_Jungle, Range_Melee, Disable_Slow, DisableProperty_Reliable, Damage_Physical
+Lina;Role_Carry, Role_Support, Role_Ganker, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Stun, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Damage_Magical
+Lion;Role_Support, Role_Ganker, Lane_Safe, Range_Ranged, Disable_Stun, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical
+Lone Druid;Role_Carry, Role_Pusher, Lane_Offlane, Lane_Safe, Lane_Jungle, Range_Melee, Range_Ranged, Disable_Ensare, DisableProperty_Universal, Damage_Physical
+Luna;Role_Carry, Lane_Safe, Range_Ranged, Disable_Stun, Damage_Physical, Damage_Magical
+Lycan;Role_Carry, Role_Pusher, Lane_Safe, Lane_Jungle, Range_Melee, Damage_Physical
+Magnus;Role_Initiator, Role_Ganker, Lane_Middle, Lane_Offlane, Range_Melee, Disable_Stun, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Physical, Damage_Magical, Extra_Mobile
+Medusa;Role_Carry, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Misc, DisableProperty_Universal, DisableProperty_AOE, Damage_Physical
+Meepo;Role_Carry, Role_Initiator, Role_Pusher, Lane_Middle, Lane_Safe, Range_Melee, Disable_Ensare, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Damage_Magical
+Mirana;Role_Carry, Role_Support, Role_Ganker, Lane_Middle, Lane_Offlane, Lane_Safe, Lane_Roam, Range_Ranged, Disable_Stun, Damage_Physical, Damage_Magical, Extra_Global, Extra_Mobile, Extra_Invisible, Extra_Vision
+Monkey King;Role_Carry, Role_Ganker, Lane_Safe, Range_Melee, Disable_Stun, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Extra_Mobile
+Morphling;Role_Carry, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Stun, Damage_Physical, Damage_Magical
+Naga Siren;Role_Carry, Role_Support, Role_Initiator, Role_Pusher, Role_Ganker, Lane_Safe, Range_Melee, Disable_Stun, Disable_Ensare, Disable_Misc, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical
+Nature's Prophet;Role_Carry, Role_Pusher, Role_Ganker, Lane_Offlane, Lane_Jungle, Range_Ranged, Disable_Misc, DisableProperty_Universal, Damage_Physical, Damage_Magical, Extra_Global, Extra_Mobile
+Necrophos;Role_Carry, Role_Support, Role_Healer, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Stun, DisableProperty_Universal, Damage_Magical
+Night Stalker;Role_Carry, Role_Initiator, Role_Ganker, Lane_Middle, Lane_Offlane, Lane_Safe, Lane_Roam, Range_Melee, Disable_Slow, Disable_Silence, Disable_Misc, DisableProperty_Reliable, Damage_Physical, Extra_Mobile, Extra_Vision
+Nyx Assassin;Role_Support, Role_Initiator, Role_Ganker, Lane_Offlane, Lane_Safe, Lane_Roam, Range_Melee, Disable_Stun, DisableProperty_Reliable, Damage_Magical, Extra_Invisible
+Ogre Magi;Role_Support, Role_Ganker, Lane_Safe, Range_Melee, Disable_Stun, Disable_Slow, DisableProperty_Reliable, Damage_Magical
+Omniknight;Role_Support, Role_Healer, Lane_Safe, Range_Melee, Disable_Slow
+Oracle;Role_Support, Role_Healer, Lane_Safe, Range_Ranged, Disable_Ensare, DisableProperty_Reliable, Damage_Magical
+Outworld Devourer;Role_Carry, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Misc, DisableProperty_Reliable, Damage_Pure
+Pangolier;Role_Carry, Lane_Offlane, Lane_Safe, Range_Melee, Disable_Stun, Disable_Slow, Damage_Physical, Extra_Mobile
+Phantom Assassin;Role_Carry, Lane_Safe, Range_Melee, Disable_Slow, DisableProperty_Reliable, Damage_Physical
+Phantom Lancer;Role_Carry, Lane_Offlane, Lane_Safe, Range_Melee, Disable_Slow, DisableProperty_Reliable, Damage_Physical
+Phoenix;Role_Support, Role_Initiator, Role_Healer, Lane_Offlane, Range_Ranged, Disable_Stun, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Magical, Extra_Mobile
+Puck;Role_Carry, Role_Initiator, Role_Ganker, Lane_Middle, Lane_Offlane, Range_Ranged, Disable_Stun, Disable_Silence, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Magical, Extra_Mobile, Extra_Vision
+Pudge;Role_Carry, Role_Support, Role_Initiator, Role_Ganker, Lane_Middle, Lane_Offlane, Lane_Safe, Lane_Roam, Range_Melee, Disable_Stun, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, Damage_Magical, Damage_Pure
+Pugna;Role_Carry, Role_Support, Role_Pusher, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Misc, DisableProperty_Reliable, Damage_Magical
+Queen of Pain;Role_Carry, Role_Ganker, Lane_Middle, Lane_Offlane, Range_Ranged, Disable_Slow, DisableProperty_Reliable, Damage_Magical, Damage_Pure, Extra_Mobile
+Razor;Role_Carry, Role_Pusher, Lane_Middle, Lane_Offlane, Lane_Safe, Range_Ranged, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, Damage_Physical
+Riki;Role_Carry, Role_Ganker, Lane_Safe, Lane_Roam, Range_Melee, Disable_Slow, Disable_Silence, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Extra_Mobile, Extra_Invisible
+Rubick;Role_Support, Role_Ganker, Range_Ranged, Disable_Stun, Disable_Misc, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical
+Sand King;Role_Initiator, Role_Ganker, Lane_Safe, Lane_Jungle, Range_Melee, Disable_Stun, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical, Extra_Mobile, Extra_Invisible
+Shadow Demon;Role_Support, Role_Ganker, Lane_Safe, Range_Ranged, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, Damage_Magical
+Shadow Fiend;Role_Carry, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Slow, DisableProperty_AOE, Damage_Physical, Damage_Magical
+Shadow Shaman;Role_Support, Role_Pusher, Role_Ganker, Lane_Safe, Range_Ranged, Disable_Stun, DisableProperty_Reliable, Damage_Physical, Damage_Magical
+Silencer;Role_Carry, Role_Support, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Slow, Disable_Silence, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Magical, Damage_Pure, Extra_Global
+Skywrath Mage;Role_Carry, Role_Support, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Slow, Damage_Magical
+Slardar;Role_Carry, Role_Initiator, Role_Ganker, Lane_Offlane, Lane_Safe, Range_Melee, Disable_Stun, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Extra_Mobile, Extra_Vision
+Slark;Role_Carry, Lane_Middle, Lane_Safe, Range_Melee, Disable_Misc, Damage_Physical, Extra_Mobile, Extra_Invisible
+Sniper;Role_Carry, Lane_Safe, Range_Ranged, Disable_Slow, DisableProperty_AOE, Damage_Physical
+Spectre;Role_Carry, Lane_Safe, Range_Melee, Disable_Slow, Damage_Physical, Damage_Pure, Extra_Global, Extra_Mobile
+Spirit Breaker;Role_Initiator, Role_Ganker, Lane_Offlane, Lane_Roam, Range_Melee, Disable_Stun, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Physical, Extra_Global, Extra_Mobile, Extra_Vision
+Storm Spirit;Role_Carry, Role_Initiator, Role_Ganker, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Slow, Damage_Magical, Extra_Mobile
+Sven;Role_Carry, Lane_Safe, Range_Melee, Disable_Stun, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical
+Techies;Lane_Offlane, Lane_Safe, Lane_Roam, Range_Ranged, Disable_Stun, DisableProperty_AOE, Damage_Physical, Damage_Magical, Extra_Invisible, Extra_Vision
+Templar Assassin;Role_Carry, Role_Ganker, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Slow, DisableProperty_Reliable, Damage_Physical, Extra_Invisible
+Terrorblade;Role_Carry, Role_Pusher, Lane_Safe, Range_Melee, Range_Ranged, Disable_Slow, Damage_Physical
+Tidehunter;Role_Initiator, Lane_Offlane, Range_Melee, Disable_Stun, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Damage_Magical
+Timbersaw;Role_Carry, Lane_Middle, Lane_Offlane, Lane_Roam, Range_Melee, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical, Damage_Pure, Extra_Mobile
+Tinker;Role_Carry, Role_Ganker, Lane_Middle, Range_Ranged, Damage_Magical, Damage_Pure
+Tiny;Role_Carry, Role_Initiator, Role_Pusher, Lane_Middle, Lane_Safe, Range_Melee, Disable_Stun, Disable_Misc, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Damage_Magical
+Treant Protector;Role_Support, Role_Initiator, Role_Healer, Lane_Offlane, Lane_Safe, Range_Melee, Disable_Ensare, Disable_Slow, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Physical, Extra_Global, Extra_Invisible, Extra_Vision
+Troll Warlord;Role_Carry, Role_Pusher, Lane_Middle, Lane_Safe, Range_Melee, Range_Ranged, Disable_Stun, Disable_Slow, DisableProperty_Universal, Damage_Physical, Extra_Global
+Tusk;Role_Carry, Role_Support, Role_Initiator, Role_Ganker, Lane_Middle, Lane_Offlane, Lane_Safe, Lane_Roam, Range_Melee, Disable_Stun, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Physical, Damage_Magical, Extra_Mobile
+Underlord;Role_Support, Role_Pusher, Role_Ganker, Lane_Offlane, Lane_Safe, Range_Melee, Disable_Ensare, DisableProperty_Reliable, DisableProperty_AOE, Damage_Physical, Damage_Magical, Extra_Global, Extra_Mobile
+Undying;Lane_Offlane, Range_Melee, Disable_Slow
+Ursa;Role_Carry, Lane_Safe, Range_Melee, Disable_Slow, DisableProperty_AOE, Damage_Physical
+Vengeful Spirit;Role_Carry, Role_Support, Role_Initiator, Role_Ganker, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, Damage_Physical, Damage_Magical, Extra_Vision
+Venomancer;Role_Carry, Role_Support, Role_Initiator, Role_Pusher, Lane_Middle, Lane_Offlane, Lane_Safe, Range_Ranged, Disable_Slow, DisableProperty_Reliable, DisableProperty_AOE, Damage_Magical
+Viper;Role_Carry, Lane_Middle, Lane_Offlane, Lane_Safe, Range_Ranged, Disable_Slow, DisableProperty_Reliable, DisableProperty_Universal, Damage_Physical
+Visage;Role_Carry, Role_Support, Lane_Safe, Range_Ranged, Disable_Stun, DisableProperty_AOE, Damage_Physical
+Warlock;Role_Carry, Role_Support, Role_Initiator, Role_Healer, Lane_Middle, Lane_Safe, Range_Ranged, Disable_Stun, Disable_Slow, DisableProperty_Universal, DisableProperty_AOE, Damage_Magical
+Weaver;Role_Carry, Lane_Middle, Lane_Offlane, Lane_Safe, Lane_Roam, Range_Ranged, Damage_Physical, Extra_Mobile, Extra_Invisible
+Windranger;Role_Carry, Role_Support, Role_Ganker, Lane_Middle, Lane_Offlane, Lane_Safe, Range_Ranged, Disable_Stun, DisableProperty_Reliable, Damage_Physical, Extra_Mobile, Extra_Vision
+Winter Wyvern;Role_Support, Role_Healer, Lane_Safe, Range_Ranged, Disable_Slow, Disable_Misc, DisableProperty_Reliable, DisableProperty_Universal, DisableProperty_AOE, Damage_Magical
+Witch Doctor;Role_Support, Role_Ganker, Role_Healer, Lane_Safe, Range_Ranged, Disable_Stun, DisableProperty_Reliable, Damage_Physical, Damage_Magical
+Wraith King;Role_Carry, Role_Support, Role_Initiator, Role_Ganker, Role_Healer, Lane_Safe, Lane_Jungle, Range_Melee, Disable_Stun, Disable_Slow, DisableProperty_Reliable, Damage_Physical
+Zeus;Role_Carry, Lane_Middle, Range_Ranged, Damage_Magical, Extra_Global, Extra_Vision
